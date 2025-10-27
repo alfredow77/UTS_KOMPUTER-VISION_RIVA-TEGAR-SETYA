@@ -19,11 +19,12 @@ Dibuat menggunakan fungsi-fungsi dasar OpenCV seperti `cv2.rectangle`, `cv2.circ
 7. **Crop:** Memotong sebagian badan roket.
 8. <img width="100" height="200" alt="roket_dipotong_badan" src="https://github.com/user-attachments/assets/963b9154-0ed2-49be-9581-e232d31ae1a1" />
 
-
-## Operasi yang Digunakan
-- `cv2.addWeighted()` → menggabungkan dua gambar dengan bobot berbeda.
-- `cv2.bitwise_not()` → operasi logika invers untuk menghasilkan efek negatif.
-
-
+operasi yang digunakan : 
+np.full (NumPy)
+cv2.line
+cv2.circle
+cv2.fillPoly
+cv2.polylines
+cv2.ellipse
 
 ![Final Output](output/final.png)
