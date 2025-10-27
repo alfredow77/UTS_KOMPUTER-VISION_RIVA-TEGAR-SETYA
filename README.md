@@ -3,8 +3,17 @@ UTS_ComputerVision
 
 
 ## Deskripsi Karakter
-Karakter ini terinspirasi dari **Minion** dengan bentuk tubuh **kotak sederhana**.  
-Dibuat menggunakan fungsi-fungsi dasar OpenCV seperti `cv2.rectangle`, `cv2.circle`, `cv2.line`, dan `cv2.putText`.
+nama : Riva Tegar Setya
+NIM : 43050230017
+gambar roket ini di buat dengan:
+np.full (NumPy)
+cv2.line
+cv2.circle
+cv2.fillPoly
+cv2.polylines
+cv2.ellipse
+<img width="600" height="600" alt="roket_asli" src="https://github.com/user-attachments/assets/b04b5021-f386-4173-b1c9-47b8313df767" />
+
 
 ## Transformasi yang Digunakan
 1. **Translasi (Translation):** Menggeser posisi karakter menggunakan `cv2.warpAffine`.
