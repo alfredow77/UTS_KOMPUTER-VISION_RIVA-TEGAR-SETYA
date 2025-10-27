@@ -14,7 +14,11 @@ Dibuat menggunakan fungsi-fungsi dasar OpenCV seperti `cv2.rectangle`, `cv2.circ
 4. <img width="600" height="600" alt="roket_diputar_-45" src="https://github.com/user-attachments/assets/f0c545d7-364f-4d73-be96-9a50db83e3ea" />
 
 5. **Resize:** Mengubah ukuran gambar menjadi 70% ukuran asli.
-6. **Crop:** Memotong sebagian area wajah minion.
+6. <img width="800" height="800" alt="roket_diubah_ukuran_800x800" src="https://github.com/user-attachments/assets/34854373-b2b6-4e3d-97e1-1be58ce26456" />
+
+7. **Crop:** Memotong sebagian badan roket.
+8. <img width="100" height="200" alt="roket_dipotong_badan" src="https://github.com/user-attachments/assets/963b9154-0ed2-49be-9581-e232d31ae1a1" />
+
 
 ## Operasi yang Digunakan
 - `cv2.addWeighted()` → menggabungkan dua gambar dengan bobot berbeda.
